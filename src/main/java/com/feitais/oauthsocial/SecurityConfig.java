@@ -1,4 +1,4 @@
-package com.maraujo.oauthsocial;
+package com.feitais.oauthsocial;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

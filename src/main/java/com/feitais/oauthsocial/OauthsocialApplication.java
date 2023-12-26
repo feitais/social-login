@@ -1,4 +1,4 @@
-package com.maraujo.oauthsocial;
+package com.feitais.oauthsocial;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.maraujo.oauthsocial;
+package com.feitais.oauthsocial;
 
 import org.springframework.security.core.Authentication;
 import org.springframework.security.oauth2.core.user.DefaultOAuth2User;
