@@ -8,7 +8,7 @@
 		<version>3.2.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>life.starbien</groupId>
+	<groupId>com.feitais</groupId>
 	<artifactId>oauth2-login</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Social-Login</name>
